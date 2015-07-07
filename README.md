@@ -2,7 +2,7 @@
 
 quite simple to do:
 
-```
+```ruby
 require 'catpix'
 Catpix::print_image "caveman1.png",
   :limit_x => 1.0,
